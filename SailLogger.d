@@ -1,0 +1,1 @@
+SailLogger.o: SailLogger.cpp
